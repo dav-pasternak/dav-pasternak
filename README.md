@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dav-pasternak
-- 👀 I’m interested in Data Science, Machine Learning, Space Exploration, Brazilian Jiu Jitsu, and Wrestling
+- 👀 I’m interested in Data Science, Machine Learning, Space Exploration, Physics, Brazilian Jiu Jitsu, and Wrestling
 - 🌱 I’m currently learning Data Engineering, Computer Vision, and Software Engineering
 
 <!---
